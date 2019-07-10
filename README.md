@@ -1,2 +1,2 @@
 # HW_20190704
-sunday HW
+print(SUN_HW1)
